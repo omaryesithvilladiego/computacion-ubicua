@@ -1,4 +1,8 @@
+# Laboratorio 1 - LED Pin 13
 
+## Código
+
+```cpp
 const int pinLed = 13;
 const int tiempoEncendido = 1000;
 const int tiempoApagado = 700;
