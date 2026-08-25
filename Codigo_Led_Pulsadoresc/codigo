@@ -1,6 +1,6 @@
 
 int PULSADOR = 2; 
-int LED=3; 
+int LED=11; 
 
 void setup(){ 
 
