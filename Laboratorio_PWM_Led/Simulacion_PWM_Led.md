@@ -8,7 +8,7 @@ Puedes ver el proyecto funcionando en las siguientes plataformas:
 
 ## 🟪 Velxio
 
-[▶️ Abrir simulación en Velxio]()
+[▶️ Abrir simulación en Velxio](https://velxio.dev/denebleo08/simulacionpwmled)
 
 ## 🟩 Wokwi
 
