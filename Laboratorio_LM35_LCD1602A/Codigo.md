@@ -1,4 +1,8 @@
+# Laboratorio 1 - LED Pin 13
 
+## Código
+
+```cpp
 #include <LiquidCrystal.h> // Incluir librería del LCD [10]
 
 LiquidCrystal lcd(7, 6, 5, 4, 3, 2); // Pines RS, E, D4, D5, D6, D7 [10]
