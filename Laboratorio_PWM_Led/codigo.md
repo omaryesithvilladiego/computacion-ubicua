@@ -1,3 +1,6 @@
+## Código
+
+```cpp
 int LED = 3;				// LED en pin 3
 int BRILLO;
 
