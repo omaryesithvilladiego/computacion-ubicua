@@ -4,7 +4,7 @@ Puedes ver el proyecto funcionando en las siguientes plataformas:
 
 ## 🟦 Tinkercad
 
-[▶️ Abrir simulación en Tinkercad](https://www.tinkercad.com/things/48RhHHf8TNt-simulaciontinker)
+[▶️ Abrir simulación en Tinkercad](https://www.tinkercad.com/things/braWujYzJvs-simulacionledpinpulsador)
 
 ## 🟪 Velxio
 
