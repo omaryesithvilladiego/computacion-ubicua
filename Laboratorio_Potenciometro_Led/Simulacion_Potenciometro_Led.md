@@ -4,7 +4,7 @@ Puedes ver el proyecto funcionando en las siguientes plataformas:
 
 ## 🟦 Tinkercad
 
-[▶️ Abrir simulación en Tinkercad]()
+[▶️ Abrir simulación en Tinkercad](https://www.tinkercad.com/things/hKuQsJFbTaP-simulacionpotenciometroled)
 
 ## 🟪 Velxio
 
