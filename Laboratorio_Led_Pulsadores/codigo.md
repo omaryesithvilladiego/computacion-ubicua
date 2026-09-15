@@ -1,4 +1,6 @@
+## Código
 
+```cpp
 int PULSADOR = 2; 
 int LED=11; 
 
