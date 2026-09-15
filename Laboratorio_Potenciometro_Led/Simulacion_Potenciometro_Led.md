@@ -4,12 +4,12 @@ Puedes ver el proyecto funcionando en las siguientes plataformas:
 
 ## 🟦 Tinkercad
 
-[▶️ Abrir simulación en Tinkercad](https://www.tinkercad.com/things/braWujYzJvs-simulacionledpinpulsador)
+[▶️ Abrir simulación en Tinkercad]()
 
 ## 🟪 Velxio
 
-[▶️ Abrir simulación en Velxio](https://velxio.dev/denebleo08/simulacionledpulsadores/)
+[▶️ Abrir simulación en Velxio]()
 
 ## 🟩 Wokwi
 
-[▶️ Abrir simulación en Wokwi](https://wokwi.com/projects/475243220724323329)
+[▶️ Abrir simulación en Wokwi]()
