@@ -2,7 +2,7 @@
 
 ```cpp
 int PULSADOR = 2; 
-int LED=11; 
+int LED=3; 
 
 void setup(){ 
 
