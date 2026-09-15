@@ -12,4 +12,4 @@ Puedes ver el proyecto funcionando en las siguientes plataformas:
 
 ## 🟩 Wokwi
 
-[▶️ Abrir simulación en Wokwi](https://wokwi.com/projects/473364507072356353)
+[▶️ Abrir simulación en Wokwi](https://wokwi.com/projects/475243220724323329)
