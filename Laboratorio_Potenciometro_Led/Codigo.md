@@ -1,3 +1,6 @@
+## Código
+
+```cpp
 int LED = 3;				// LED en pin 3
 int BRILLO;
 int POT = 0;				// potenciometro en pin A0
