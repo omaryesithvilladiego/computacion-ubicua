@@ -1,4 +1,3 @@
-# Laboratorio 1 - LED Pin 13
 
 ## Código
 
